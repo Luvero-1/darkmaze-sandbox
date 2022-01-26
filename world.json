@@ -1,7 +1,7 @@
 {
   "name": "darkmaze-sandbox",
   "title": "Dark maze para Sandbox",
-  "description": "<p style=\"text-align: center;\"><em>Han pasado 75 a&ntilde;os desde la caida de Troya. </em></p>\n<p style=\"text-align: center;\"><em>En un mundo paralelo al nuestro, anclado en la era antigua de nuestro tiempo. La mayor parte del mundo est&aacute; sin explorar, lleno de tierras f&eacute;rtiles y grandes bosques mediterr&aacute;neos. Tambi&eacute;n con una gran cantidad de islas donde el hombre a&uacute;n no ha dejado su huella rodean todo el ancho y largo de Terra Magna.</em></p>",
+  "description": "<p style=\"text-align:center\"><em>Han pasado 75 años desde la caida de Troya. </em></p>\n<p style=\"text-align:center\"><em>En un mundo paralelo al nuestro, anclado en la era antigua de nuestro tiempo. La mayor parte del mundo está sin explorar, lleno de tierras fértiles y grandes bosques mediterráneos. También con una gran cantidad de islas donde el hombre aún no ha dejado su huella rodean todo el ancho y largo de Terra Magna.</em></p>",
   "author": "Luvero",
   "authors": [
     {
@@ -26,9 +26,8 @@
   "download": "https://codeload.github.com/Luvero-1/darkmaze-sandbox/zip/main",
   "protected": false,
   "background": "worlds/darkmaze-sandbox/Dark%20maze%20portada.jpg",
-  "coreVersion": "0.8.9",
-  "nextSession": null,
+  "coreVersion": "9.242",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.10.1"
+  "systemVersion": "0.12.1"
 }
